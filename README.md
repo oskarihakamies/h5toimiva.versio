@@ -52,13 +52,54 @@ Tämän jälkeen kirjoitin tekstiä micro README.md kansioon ja lähdin puskemaa
 
 <img width="364" height="114" alt="image" src="https://github.com/user-attachments/assets/021e4f45-3b06-4c5e-b202-acf654300416" />
 
+Tämän jälkeen suoritin peruskomennot gitillä ja pushasin sen weppiin. 
+
+<img width="242" height="117" alt="image" src="https://github.com/user-attachments/assets/51bfa4ca-e9e0-4c18-92e6-c397b646ffcc" />
+
+
+Loin uuden README.md kansion sekä muokkasin tekstiä alkuperäisessä tiedostossa. 
+
+
+<img width="389" height="283" alt="image" src="https://github.com/user-attachments/assets/dc9f3d9f-863b-43b0-9119-542c978b9a2e" />
+
+
+<img width="444" height="166" alt="image" src="https://github.com/user-attachments/assets/ed924212-1ca6-47d1-9862-8bac2ea45fbd" />
 
 
 
+c) Doh! Seuraavaksi aloitin tehtävän tekemällä tyhmän muutoksen gitissä. Loin micro README.md kansioon tekstiä, mutta en commitannut sitä. 
 
 
 
+<img width="454" height="158" alt="image" src="https://github.com/user-attachments/assets/33eddf17-d6bd-48e2-92ae-a7b3edaa3270" />
 
+Ja katsoin muutoksen git status komennolla, sekä catilla. 
+
+
+<img width="455" height="173" alt="image" src="https://github.com/user-attachments/assets/dcc3cce3-5f62-4353-a905-7bc0ee1fb125" />
+
+Tämän jälkeen poistin sen komennolla git reset --hard
+
+
+
+<img width="332" height="46" alt="image" src="https://github.com/user-attachments/assets/73f3767c-4efa-4297-b9e3-6d47c3c40d93" />
+
+
+d) Tukki. Eli seuraavaksi menin katsomaan logejani. Kirjoitin aluksi git log komennon, josta tarkistin perusmuutokset, sekä sähköpostini ja nimeni.
+
+
+<img width="538" height="152" alt="image" src="https://github.com/user-attachments/assets/bca04604-08d8-4448-a892-551b86351f95" />
+
+
+Nimi, sähköposti ja git repo näkyivät oikein. Seuraavaksi katsoin git log --patch komenolla kaikki tehdyt muutokset. 
+
+
+<img width="433" height="216" alt="image" src="https://github.com/user-attachments/assets/694ba12b-082b-4ed3-90be-defe54662286" />
+
+Ja täällä näkyi oikea tekstin lisäys sekä muokkaus. 
+
+
+e) Suolattu rakki. 
 
 
 
