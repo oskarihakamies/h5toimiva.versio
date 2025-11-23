@@ -99,7 +99,17 @@ Nimi, sähköposti ja git repo näkyivät oikein. Seuraavaksi katsoin git log --
 Ja täällä näkyi oikea tekstin lisäys sekä muokkaus. 
 
 
-e) Suolattu rakki. 
+e) Suolattu rakki. Seuraavaksi olikin salt tilojen testaamista varastostani. Loin jo nykyiselle hakemistolle snow-tehtava salt hakemiston, jota muokkasin nanolla. 
+
+
+<img width="407" height="200" alt="image" src="https://github.com/user-attachments/assets/bf4c6854-2fc5-4858-bbd2-f4ea7fbae203" />
+
+
+Lisäsin simppelin tiedoston siihen, jota pääsisin sitten ajamaan. Seuraavaksi committasin ne ja pushasin eteenpäin. 
+
+<img width="380" height="178" alt="image" src="https://github.com/user-attachments/assets/c57be3c1-8108-4d8e-8584-612a3b94d9e3" />
+
+Käytin commit -m, sillä se on helpompi tapa, jonka opin muuten youtubessa ja  GitLab Docs: Common Git commands, https://docs.gitlab.com/topics/git/commands/
 
 
 
