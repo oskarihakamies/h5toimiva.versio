@@ -65,7 +65,7 @@ Loin uuden README.md kansion sekä muokkasin tekstiä alkuperäisessä tiedostos
 
 <img width="444" height="166" alt="image" src="https://github.com/user-attachments/assets/ed924212-1ca6-47d1-9862-8bac2ea45fbd" />
 
-
+23/11 klo 17.16 jatkoin Doh! tehtävän tekoa ja tähän asti kaikki sujuikin mallikkaasti. 
 
 c) Doh! Seuraavaksi aloitin tehtävän tekemällä tyhmän muutoksen gitissä. Loin micro README.md kansioon tekstiä, mutta en commitannut sitä. 
 
@@ -99,10 +99,13 @@ Nimi, sähköposti ja git repo näkyivät oikein. Seuraavaksi katsoin git log --
 Ja täällä näkyi oikea tekstin lisäys sekä muokkaus. 
 
 
+Nyt kello on 17-40 ja jatkoin viimeiseen tehtävään. 
+
+
 e) Suolattu rakki. Seuraavaksi olikin salt tilojen testaamista varastostani. Loin jo nykyiselle hakemistolle snow-tehtava salt hakemiston, jota muokkasin nanolla. 
 
 
-<img width="407" height="200" alt="image" src="https://github.com/user-attachments/assets/bf4c6854-2fc5-4858-bbd2-f4ea7fbae203" />
+<img width="353" height="95" alt="image" src="https://github.com/user-attachments/assets/fd80308e-c4ac-40ab-9361-14bfaf586e61" />
 
 
 Lisäsin simppelin tiedoston siihen, jota pääsisin sitten ajamaan. Seuraavaksi committasin ne ja pushasin eteenpäin. 
@@ -111,7 +114,25 @@ Lisäsin simppelin tiedoston siihen, jota pääsisin sitten ajamaan. Seuraavaksi
 
 Käytin commit -m, sillä se on helpompi tapa, jonka opin muuten youtubessa ja  GitLab Docs: Common Git commands, https://docs.gitlab.com/topics/git/commands/
 
+Seuraavaksi ajoin sen läpi. Komentoa käytin Karvinen 2024: Palvelinten hallinta h5 kohdasta, https://terokarvinen.com/palvelinten-hallinta/ eli sudo salt-call --local --file-root srv/salt/ state.apply snow-testi. 
 
+<img width="543" height="256" alt="image" src="https://github.com/user-attachments/assets/ecfa5853-e49c-4fec-9a9d-55423d9bf9e1" />
+
+Ja se ajoi sen läpi onnistuneesti. 
+
+Tässä vielä kuva oikeasta srv/salt kansion lisäyksestä wepin läpi. 
+
+
+<img width="442" height="182" alt="image" src="https://github.com/user-attachments/assets/6bc5d8ea-1765-4ee6-aa54-fae8c0df6f10" />
+
+Tehtävät tehty 23/11 klo 18.11
+
+
+## Yhteenveto: 
+
+- Ongelmia ei oikein tullut vastaan ja tehtävät onnistuivat hyvin.
+- Tunnilla opitut asiat jäivät hyvin mieleen ja sen takia tehtävät sujuivat.
+- Ja kaikki saatiin tehtyä. Mielenkiintoinen aihe kyllä 
 
 
 ## Lähteet:
