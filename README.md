@@ -47,15 +47,14 @@ b) Dolly: Seuraavaksi kloonasin "snow" repon debianissa käyttäen viime tunnill
 
 <img width="440" height="104" alt="image" src="https://github.com/user-attachments/assets/7297ce9e-4b8e-4118-8a14-d20a77d22496" />
 
-Tämän jälkeen kirjoitin tekstiä nano README.md kansioon ja lähdin puskemaan muutoksia. 
+Tämän jälkeen kirjoitin tekstiä micro README.md kansioon ja lähdin puskemaan muutoksia. 
 
 
-<img width="371" height="77" alt="image" src="https://github.com/user-attachments/assets/0e2ba145-5400-4f5e-b011-99c17418c2af" />
-
-Ja loin samalla uuden kansion weppiin, sekä kirjoitin muutosta ihan nykyiseen gitHubin snow-tehtävä repoon. 
+<img width="364" height="114" alt="image" src="https://github.com/user-attachments/assets/021e4f45-3b06-4c5e-b202-acf654300416" />
 
 
-<img width="364" height="114" alt="image" src="https://github.com/user-attachments/assets/ab9151fe-680e-4b83-bf40-d549c8d07f88" />
+
+
 
 
 
