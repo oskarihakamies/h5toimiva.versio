@@ -33,12 +33,33 @@ Nämä tehtävät sain tehtyä 23/11 klo 15.34 eli kesti hieman tarkalleen 45min
 
 Nyt alkaa tehtävien teko. 23/11 klo on 16.20
 
-a) Aloitin tehtävän luomalla uuden repon githubiin. 
+a) Online: Aloitin tehtävän luomalla uuden repon githubiin. 
 
 <img width="539" height="274" alt="image" src="https://github.com/user-attachments/assets/db366027-35e1-488e-9d43-958de7733e36" />
 
 
 Ja lisäsin siihen README.md sekä GNU GPL-3.0 licensen.
+
+
+
+b) Dolly: Seuraavaksi kloonasin "snow" repon debianissa käyttäen viime tunnilla opittua 'git clone (repon SSH linkki)' komentoa. 
+
+
+<img width="440" height="104" alt="image" src="https://github.com/user-attachments/assets/7297ce9e-4b8e-4118-8a14-d20a77d22496" />
+
+Tämän jälkeen kirjoitin tekstiä nano README.md kansioon ja lähdin puskemaan muutoksia. 
+
+
+<img width="371" height="77" alt="image" src="https://github.com/user-attachments/assets/0e2ba145-5400-4f5e-b011-99c17418c2af" />
+
+Ja loin samalla uuden kansion weppiin, sekä kirjoitin muutosta ihan nykyiseen gitHubin snow-tehtävä repoon. 
+
+
+<img width="364" height="114" alt="image" src="https://github.com/user-attachments/assets/ab9151fe-680e-4b83-bf40-d549c8d07f88" />
+
+
+
+
 
 
 
