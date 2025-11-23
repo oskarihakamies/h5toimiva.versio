@@ -33,9 +33,12 @@ Nämä tehtävät sain tehtyä 23/11 klo 15.34 eli kesti hieman tarkalleen 45min
 
 Nyt alkaa tehtävien teko. 23/11 klo on 16.20
 
-a) 
+a) Aloitin tehtävän luomalla uuden repon githubiin. 
+
+<img width="539" height="274" alt="image" src="https://github.com/user-attachments/assets/db366027-35e1-488e-9d43-958de7733e36" />
 
 
+Ja lisäsin siihen README.md sekä GNU GPL-3.0 licensen.
 
 
 
