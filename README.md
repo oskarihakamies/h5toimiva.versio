@@ -6,7 +6,7 @@ Tehtävä aloitettu 23/11 klo 14.49. Luin tiivistelmä tehtävistä läpi annetu
 
 ## Chacon and Straub 2014: Pro Git, 2ed: 1.3 Getting Started - What is Git?
 
-- Git eroaa keskitetyistä järjestelmistä (kuten CVS tai Subversion) tallentamalla koko historian paikallisesti jokaisella käyttäjällä, mikä mahdollistaa offline-työn ja nopeammat operaatiot ilman palvelinriippuvuutta.
+- Git eroaa keskitetyistä järjestelmistä (kuten CVS tai Subversion) tallentamalla koko historian paikallisesti jokaisella käyttäjällä, mikä mahdollistaa työn teon offlinessa eli ilman nettiä. 
 - Git myös käyttää snapshot mallia eli se tallentaa kokonaiset versiot tiedostoina. Tämä myös takaa sen, että jos projektissa työskentelisi monta henkilöä, niin jokaisen muokkaus jää historiaan. 
 - Commit komento tehdään paikallisesti, mikä tekee siitä äärimmäisen nopean. 
 - Mielestäni git myös todistaa, kuinka fiksu Linus oli hänen keksiessään sen. 
